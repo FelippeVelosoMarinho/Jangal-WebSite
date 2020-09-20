@@ -126,8 +126,8 @@
     display: inline-flex;
 }
 .Contatoimg{
-    height: 440px;
-    width: 660px;
+    height: 40%;
+    width: 85%;
     justify-content: right;
 }
 h1 {
