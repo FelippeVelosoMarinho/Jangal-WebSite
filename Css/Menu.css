@@ -1,0 +1,30 @@
+.cabeçalho{
+    width: 100%;
+    height: 60px;
+    background-color: #161616;  
+    display: inline-flex;
+    position: fixed;
+  }
+.logo {
+    float: left;
+    margin-top: 15px;
+    list-style: none;
+    padding-left: 32px;
+    width:15%;
+    }
+  
+  .butn {
+    background-color: #161616;
+    color: #ffffff;
+    padding: 10px;
+    font-size: 19px;
+    font-family: 'bahnschrift';
+    border: none;
+    margin-top: 9px;
+    float: left;
+    margin-right: 20px;
+    cursor: pointer;
+  }
+  
+  
+
